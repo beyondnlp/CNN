@@ -1,3 +1,5 @@
+__author__ = 'jchern'
+__email__ = 'jchern@naver.com'
 import os
 import sys
 import ast
